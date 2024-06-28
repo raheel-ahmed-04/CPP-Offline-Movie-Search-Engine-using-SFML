@@ -1,0 +1,55 @@
+Hotel transylvania : transformania
+histroical,action
+2023
+9.9/10 IMDB
+images/poster/1.jpg
+Kung Fu Panda 3
+Adventure,Family,Animation
+2016
+7.1/10 IMDb
+images/poster/2.jpg
+Annabelle
+Horror
+2014
+5.4/10 IMDb
+images/poster/3.jpg
+John Wick
+Action
+2014
+7.4/10 IMDb
+images/poster/4.jpg
+Peaky Blinders
+Action,Thriller
+2017
+8.8/10 IMDb
+images/poster/5.jpg
+The Batman
+Thriller
+2022
+7.8/10 IMDb
+images/poster/6.jpg
+Interstellar
+Science Fiction
+2014
+8.7/10 IMDb
+images/poster/7.jpg
+Logan
+Action, Drama, Science Fiction
+2017
+8.1/10 IMDb
+images/poster/8.jpg
+Venom
+Science fiction, Action
+2018
+6.6/10 IMDb
+images/poster/9.jpg
+Dictator
+Comedy
+2012
+6.4/10 IMDb
+images/poster/10.jpg
+kurulus osman
+Action,History
+2023
+9.9/10 IMDB
+images/poster/11.jpg
