@@ -1,1 +1,2 @@
-Graphical Search Engine For Movies Offline in C++ using SFML library, with Trailer-Playing functionality & IMDB ratings.
+A Graphical Search Engine for Movies, developed using SFML in C++. This was our semester project for PROGRAMMING FUNDAMENTALS, developed by Raheel and Taha of COMSATS University Islamabad, Wah, Pakistan. The project allows users to search for movies offline, view details like title, genre, year of release, rating, and poster, watch trailers, and discover new movies through a random generator. You can replicate it, add your own touches to it, and feel free to contact us for help. 
+Instagram - @raheelimran18, email - raheelqazi@gmail.com
